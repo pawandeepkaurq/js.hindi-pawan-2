@@ -7,6 +7,8 @@ const jsUser = {
     name:'pawan',
     age:18,
     email:'pawwann@gamail.com'
-    isLoggedIn:false,
-    
 }
+console.log(jsUser['email']);
+ console.log(jsUser.email);
+
+ 
